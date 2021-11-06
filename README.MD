@@ -1,2 +1,9 @@
 ## alpine-basic
-构建基础镜像  
+基础镜像
+
+## 拉取
+```
+docker pull dextercai/alpine-basic
+```
+
+
